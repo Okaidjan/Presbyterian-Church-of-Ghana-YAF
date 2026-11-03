@@ -4,3 +4,5 @@ Flask-Login
 Werkzeug
 gunicorn
 SQLAlchemy
+pandas
+openpyxl
